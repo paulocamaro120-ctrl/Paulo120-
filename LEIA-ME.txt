@@ -1,0 +1,13 @@
+EDITOR DE CIFRAS (app instalavel)
+
+1) Envie TODOS os arquivos desta pasta para uma hospedagem com https
+   (GitHub Pages, Netlify, Cloudflare Pages... todas tem plano gratis).
+2) Abra o endereco no Chrome do Android > menu (3 pontinhos) > "Instalar app".
+3) Depois de instalado ele abre em tela cheia e funciona sem internet.
+4) Receber do "Compartilhar": ao compartilhar uma cifra para o app "Cifras",
+   ele recebe o texto. (O Cifra Club costuma compartilhar so o link; nesse caso o app
+   avisa e voce copia o texto da cifra e toca em Importar.)
+
+Para atualizar o app depois: troque index.html e mude 'cifras-v40' em sw.js
+para 'cifras-v41' (assim o celular baixa a versao nova).
+Suas cifras ficam salvas no proprio celular (use Backup no menu de 3 pontinhos).
